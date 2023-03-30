@@ -11,14 +11,15 @@ il est malheureusement devenu payant pour la création de parties privées (donc
 
 ```
 Durant la période de pandémie j'ai eu le temps de me pencher sur l'idée de créer un jeu de société
-J'ai pu concevoir des pièces 3D en plastique PLA sur mon Ender 3 Pro, pour améliorer ou réparer les pièces cassées des vélos.
+J'ai pu concevoir des pièces 3D en plastique PLA sur mon Ender 3 Pro, pour m'aider dans ce projet.
 ```
 
-(Photo)
+![photo BT (1)](https://user-images.githubusercontent.com/128179560/228928461-c70b4d85-937d-4b0e-9cb2-a83d57801e9f.JPG)
+
 
 ## Etapes de création
 
 1. Evaluation des besoins
    - Comment créer le plateau, les billets, les cases spécifiques ?
    - Dimensionnement des maisons et hotels
-   
+   -
