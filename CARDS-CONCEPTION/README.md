@@ -1,13 +1,11 @@
-# Business-Tour-board-game
-Conception d'un jeu de plateau, toutes pièces comprises, rassemblant les cartes comme le plateau et les objets. <br/>
-Les pièces sont en plastique PLA sur une imprimante 3D - Ender 3 Pro - (date de lancement du projet - 2020)
+# CARDS-CONCEPTION
+La conception des cartes fait partie etière du processus de ce projet. <br/> J'ai commencer par me renseigner sur les dimension existantes de cartes classiques (jeux de cartes et cartes de monopoly...)
 
-> **IMPORTANT** : Ce jeu n'a aucun but commercial, il n'est utilisé que dans un cadre privé.
+## Développement
 
-## Introduction
+Les dessins et actions des cartes sont tirées du jeu existant. <br/>
 
-Le jeu Business Tour est intéressant pour jouer gratuitement en ligne entre amis,
-il est malheureusement devenu payant pour la création de parties privées (donc adieu les jeux entre amis).
+
 
 ```
 Durant la période de pandémie j'ai eu le temps de me pencher sur l'idée de créer un jeu de société
