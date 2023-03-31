@@ -26,7 +26,7 @@ La conception des cartes fait partie entière du processus de ce projet. <br/> J
 
 ## Création des cartes
 
-Les cartes doivent être adaptées sur un modèle de 5.5 cm de largeur et 8.4 cm de hauteur <br/>
+Les cartes doivent être adaptées sur un modèle de **5.5 cm de largeur** et **8.4 cm de hauteur** <br/>
 J'ai décidé de copié l'image et de travailler les cartes pour en faire ressortir le meilleur.
 
 ```
