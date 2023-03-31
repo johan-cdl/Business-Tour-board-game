@@ -67,11 +67,11 @@ En effet pour créer le fond de ces deux cartes ce logiciel convenait parfaiteme
 3. Les cartes **propriétés** :
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/128179560/228994827-87d6ad30-5281-4187-a161-238b9cb29aec.png" width="330" height="470">
+  <img src="https://user-images.githubusercontent.com/128179560/228995961-234f396e-ebf1-4142-a92c-77cc63b470c2.png" width="330" height="470">
   <img src="https://user-images.githubusercontent.com/128179560/228994851-56e82031-85c9-4287-aa8d-e0789f998aa1.png" width="330" height="470">
   <img src="https://user-images.githubusercontent.com/128179560/228994889-bc2cfe87-02b2-4019-970a-a7c9c3dd446f.png" width="330" height="470">
-  
-  <img src="https://user-images.githubusercontent.com/128179560/228995018-ac70eef7-6bc4-4da9-9394-f743ce82c151.png" width="330" height="470">
+
+  <img src="https://user-images.githubusercontent.com/128179560/228996009-e4ef8d98-855e-4d78-9981-c521f6ca73ba.png" width="330" height="470">
   <img src="https://user-images.githubusercontent.com/128179560/228995076-3595eab3-a692-4665-940e-70d7a18fd4be.png" width="330" height="470">
   <img src="https://user-images.githubusercontent.com/128179560/228995101-d91f14f3-9348-4ae4-b961-0e2b985dc5f2.png" width="330" height="470">
 </p>
