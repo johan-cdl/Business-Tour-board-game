@@ -65,7 +65,7 @@ En effet pour créer le fond de ces deux cartes ce logiciel convenait parfaiteme
   - Les cartes chances coupures de courant :
 ```
 La carte se place sous la case de la ville choisie à la suite de l'utilisation d'une carte chance coupure de courant.
-Ce bonus permet de couper le courant d'une ville adverse pendant trois tours consecutifs. (Utilisation de Gimp pour la carte)
+Ce bonus permet de couper le courant d'une ville adverse pendant trois tours consécutifs. (Utilisation de Gimp pour la carte)
 ```
 ![image](https://user-images.githubusercontent.com/128179560/228997808-ff20b935-a267-426f-bed1-c4444db3433c.png)
 
@@ -80,3 +80,9 @@ Ce bonus permet de couper le courant d'une ville adverse pendant trois tours con
   <img src="https://user-images.githubusercontent.com/128179560/228995076-3595eab3-a692-4665-940e-70d7a18fd4be.png" width="330" height="470">
   <img src="https://user-images.githubusercontent.com/128179560/228995101-d91f14f3-9348-4ae4-b961-0e2b985dc5f2.png" width="330" height="470">
 </p>
+
+<br/>
+
+## Rendu des cartes
+
+Les cartes se sont merveilleusement imprimées et leur rendu est convenable. (photos à venir)
