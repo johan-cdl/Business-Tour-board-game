@@ -81,8 +81,6 @@ Ce bonus permet de couper le courant d'une ville adverse pendant trois tours con
   <img src="https://user-images.githubusercontent.com/128179560/228995101-d91f14f3-9348-4ae4-b961-0e2b985dc5f2.png" width="330" height="470">
 </p>
 
-<br/>
-
 ## Rendu des cartes
 
 Les cartes se sont merveilleusement imprimées et leur rendu est convenable. (photos à venir)
