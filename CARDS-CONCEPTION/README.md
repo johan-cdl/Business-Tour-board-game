@@ -26,7 +26,7 @@ La conception des cartes fait partie entière du processus de ce projet. <br/> J
 
 ## Création des cartes
 
-Les cartes doivent être adaptées sur un modèle de 5.5 cm de largeur et 8.4 cm de hauteur <br/>
+Les cartes doivent être adaptées sur un modèle de **5.5 cm de largeur** et **8.4 cm de hauteur** <br/>
 J'ai décidé de copié l'image et de travailler les cartes pour en faire ressortir le meilleur.
 
 ```
@@ -46,7 +46,7 @@ Simplement à partir d'outils classiques tels que les formes rectangulaires et l
 <br/>
 
 2. Les cartes **évènement spécial** :
-
+  - Les festivités et championnats :
 <p align="center">
   <img src="https://user-images.githubusercontent.com/128179560/228993619-c58d3047-0e72-4d2b-885a-572c0d488a17.png" width="670" height="470">
   <img src="https://user-images.githubusercontent.com/128179560/228993829-f97f894c-cb19-4ec4-abd7-498fb5ee9e8c.png" width="320" height="470">
@@ -62,7 +62,12 @@ En effet pour créer le fond de ces deux cartes ce logiciel convenait parfaiteme
   <img src="https://user-images.githubusercontent.com/128179560/228994424-e7dfcd64-83cb-48c6-ab9b-ea741536958a.png" width="330" height="470">
 </p>
 
-<br/>
+  - Les cartes chances coupures de courant :
+```
+La carte se place sous la case de la ville choisie à la suite de l'utilisation d'une carte chance coupure de courant.
+Ce bonus permet de couper le courant d'une ville adverse pendant trois tours consécutifs. (Utilisation de Gimp pour la carte)
+```
+![image](https://user-images.githubusercontent.com/128179560/228997808-ff20b935-a267-426f-bed1-c4444db3433c.png)
 
 3. Les cartes **propriétés** :
 
@@ -75,3 +80,9 @@ En effet pour créer le fond de ces deux cartes ce logiciel convenait parfaiteme
   <img src="https://user-images.githubusercontent.com/128179560/228995076-3595eab3-a692-4665-940e-70d7a18fd4be.png" width="330" height="470">
   <img src="https://user-images.githubusercontent.com/128179560/228995101-d91f14f3-9348-4ae4-b961-0e2b985dc5f2.png" width="330" height="470">
 </p>
+
+<br/>
+
+## Rendu des cartes
+
+Les cartes se sont merveilleusement imprimées et leur rendu est convenable. (photos à venir)
