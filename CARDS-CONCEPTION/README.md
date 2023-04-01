@@ -83,4 +83,7 @@ Ce bonus permet de couper le courant d'une ville adverse pendant trois tours con
 
 ## Rendu des cartes
 
-Les cartes se sont merveilleusement imprimées et leur rendu est convenable. (photos à venir)
+Les cartes se sont merveilleusement imprimées et leur rendu est parfaitement convenable pour le bon déroulement du jeu.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/128179560/229288130-464214cb-7efa-42ef-ae78-0e22c2e41aca.png">
+</p>
