@@ -7,9 +7,8 @@ La conception des pièces est le coeur de ce projet. <br/> J'ai commencé par me
 
 > Il existe cinq pièces maisons différentes et huit hotels différents.
 
-Les différentes maisons :
-
 <p align="center">
+Les différentes maisons : <br/>
 <img src="https://user-images.githubusercontent.com/128179560/232209610-f1ccf3fd-1987-41ae-a0c3-7c01dfe82597.PNG" width="300" height="300">
 <img src="https://user-images.githubusercontent.com/128179560/232209617-3fe03e31-0b98-492b-9d58-a7e84a8d1f90.PNG" width="300" height="300">
 <img src="https://user-images.githubusercontent.com/128179560/232209690-c05cba7d-6831-47a3-9c7c-c84940001ca2.PNG" width="300" height="300">
@@ -17,13 +16,8 @@ Les différentes maisons :
 <img src="https://user-images.githubusercontent.com/128179560/232210608-45c2e371-7098-40d9-94ef-39626c36b0c5.png" width="300" height="300">
 </p>
 
-Après impression :
-
-(photos)
-
-Les différents hotels :
-
 <p align="center">
+Les différents hotels : <br/>
 <img src="https://user-images.githubusercontent.com/128179560/232209887-7e777720-d718-4b17-a67c-fd979f5fae63.png" width="200" height="200">
 <img src="https://user-images.githubusercontent.com/128179560/232209914-60893cd3-bcba-49bd-b5ce-bef396b31237.png" width="200" height="200">
 <img src="https://user-images.githubusercontent.com/128179560/232209933-9ca9db91-a76b-47af-b4ec-85cf53cb878d.png" width="200" height="200">
@@ -34,85 +28,62 @@ Les différents hotels :
 <img src="https://user-images.githubusercontent.com/128179560/232210375-ad084789-32ee-4b4c-8745-d380e4a1cd5e.png" width="200" height="200">
 </p>
 
-Après impression :
-
-(photos)
-
 2. Les pièces **d'évènements spéciaux** :
 
 Dans le jeu existant, ces pièces sont représentées sur les cases par les items ci-dessous :
 
 > Les festivités ainsi que les championnats du monde seront représentés par des cartes (voir **CARDS-CONCEPTION**)
 
-<img src="https://user-images.githubusercontent.com/128179560/228990830-69d850e7-a919-41e6-a745-282eec346fa8.png" width="300" height="300" align="left">
-<img src="https://user-images.githubusercontent.com/128179560/228991076-f6ca6947-834c-4a53-828e-15729d659cb0.png" width="300" height="300"> <br/>
+<img src="https://user-images.githubusercontent.com/128179560/232206460-16cac9dc-8dce-44e4-911c-67f904308745.png" width="300" height="300" align="left">
+<img src="https://user-images.githubusercontent.com/128179560/232206558-de2e6352-d7dd-4d18-9f8e-abfe24f03532.png" width="300" height="300">
 
-3. Les cartes de **propriétés** :
+## Modélisation
 
-> Les propriétés sont représentées par les cases aux couleurs de chaque joueur.
-
-![image](https://user-images.githubusercontent.com/128179560/228992139-2ee14362-85b6-4dea-9f5b-73f6d3ac610c.png)
-
-## Création des cartes
-
-Les cartes doivent être adaptées sur un modèle de **5.5 cm de largeur** et **8.4 cm de hauteur** <br/>
-J'ai décidé de copié l'image et de travailler les cartes pour en faire ressortir le meilleur.
-
-```
-Toutes les cartes qui suivent sont créées sur LibreOffice Draw.
-Simplement à partir d'outils classiques tels que les formes rectangulaires et les effets de couleurs et transparences.
-```
-<br/>
-
-1. Les cartes **chances** :
+1. Les pièces **maisons et hotels** : <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/128179560/228989347-5a79852f-5e82-4714-87b2-afaf53bd0188.png" width="330" height="470">
-  <img src="https://user-images.githubusercontent.com/128179560/228989397-aa9b26d5-c2d7-4acd-969d-646ea04bd348.png" width="330" height="470">
-  <img src="https://user-images.githubusercontent.com/128179560/228990082-cfc8883b-4f49-4181-bfac-1977bcae3c7e.png" width="330" height="470">
+Les différentes maisons : <br/>
+<img src="https://user-images.githubusercontent.com/128179560/232212596-048b046c-695c-4c3c-b5f0-4e2903565747.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/128179560/232212664-622b53a9-4180-4fe9-a3a4-5c29fbe49ca0.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/128179560/232212734-a9f556a5-8d44-462a-86e8-7219583b34ac.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/128179560/232212854-5fef129a-67c2-4fa4-a835-80f160254bee.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/128179560/232212799-82514a53-490c-4d61-b336-3be79c77297a.png" width="300" height="300">
 </p>
 
-<br/>
-
-2. Les cartes **évènement spécial** :
-  - Les festivités et championnats :
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/128179560/228993619-c58d3047-0e72-4d2b-885a-572c0d488a17.png" width="670" height="470">
-  <img src="https://user-images.githubusercontent.com/128179560/228993829-f97f894c-cb19-4ec4-abd7-498fb5ee9e8c.png" width="320" height="470">
+Les différents hotels : <br/>
+<img src="https://user-images.githubusercontent.com/128179560/232213051-1aa00861-631f-4ef3-87b4-c1d959235d3a.png" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/128179560/232213067-73bb507e-62d6-4da5-93e2-72d844e865f8.png" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/128179560/232213086-5b42f547-35db-4117-8b95-56a8d1de49fe.png" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/128179560/232213101-ef8170b0-1088-49c9-b28b-29e34ac369b2.png" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/128179560/232213116-8855eaf5-286e-4d73-829f-2b2e025ec572.png" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/128179560/232213131-c012205a-6982-4186-8ab0-3c7c926f615e.png" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/128179560/232213144-56bdfe62-dd7e-47b8-8c1b-df2f75c116c3.png" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/128179560/232213161-23027dce-b435-4165-97ff-50b987709931.png" width="200" height="200">
 </p>
 
-```
-Utilisation du logiciel de modification de photo Gimp.
-En effet pour créer le fond de ces deux cartes ce logiciel convenait parfaitement.
-```
+2. Les pièces **d'évènements spéciaux** :
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/128179560/228994381-f53bf355-df1f-40ca-84d6-9d5581aa633f.png" width="330" height="470">
-  <img src="https://user-images.githubusercontent.com/128179560/228994399-aba14f2f-e0eb-4368-84e9-1cc2d94a6b14.png" width="330" height="470">
-  <img src="https://user-images.githubusercontent.com/128179560/228994424-e7dfcd64-83cb-48c6-ab9b-ea741536958a.png" width="330" height="470">
+<img src="https://user-images.githubusercontent.com/128179560/232213718-bde36309-9846-498a-927f-878da1e95d1d.png" width="650" height="400">
+<img src="https://user-images.githubusercontent.com/128179560/232213926-79f69472-91e7-49e9-b37b-f01f61b896e9.png" width="300" height="400">
 </p>
 
-  - Les cartes chances coupures de courant :
-```
-La carte se place sous la case de la ville choisie à la suite de l'utilisation d'une carte chance coupure de courant.
-Ce bonus permet de couper le courant d'une ville adverse pendant trois tours consécutifs. (Utilisation de Gimp pour la carte)
-```
-![image](https://user-images.githubusercontent.com/128179560/228997808-ff20b935-a267-426f-bed1-c4444db3433c.png)
-
-3. Les cartes **propriétés** :
+## Après impression
+1. Les pièces **maisons et hotels** : <br/>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/128179560/228995961-234f396e-ebf1-4142-a92c-77cc63b470c2.png" width="330" height="470">
-  <img src="https://user-images.githubusercontent.com/128179560/228994851-56e82031-85c9-4287-aa8d-e0789f998aa1.png" width="330" height="470">
-  <img src="https://user-images.githubusercontent.com/128179560/228994889-bc2cfe87-02b2-4019-970a-a7c9c3dd446f.png" width="330" height="470">
-
-  <img src="https://user-images.githubusercontent.com/128179560/228996009-e4ef8d98-855e-4d78-9981-c521f6ca73ba.png" width="330" height="470">
-  <img src="https://user-images.githubusercontent.com/128179560/228995076-3595eab3-a692-4665-940e-70d7a18fd4be.png" width="330" height="470">
-  <img src="https://user-images.githubusercontent.com/128179560/228995101-d91f14f3-9348-4ae4-b961-0e2b985dc5f2.png" width="330" height="470">
+Les différentes maisons : <br/>
+(photos)
 </p>
 
-## Rendu des cartes
-
-Les cartes se sont merveilleusement imprimées et leur rendu est parfaitement convenable pour le bon déroulement du jeu.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/128179560/229288130-464214cb-7efa-42ef-ae78-0e22c2e41aca.png">
+Les différents hotels : <br/>
+(photos)
+</p>
+
+2. Les pièces **d'évènements spéciaux** :
+
+<p align="center">
+(photos)
 </p>
